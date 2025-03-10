@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Haowei Fan"
-  avatar : "/assets/images/tomcat.jpg"
+  avatar : "/assets/images/tomcat.png"
   bio    : "In the dull and boring world, there is also occasional luck."
   links:
     - label: "Website"
