@@ -74,7 +74,7 @@ author:
     #   url: "https://instagram.com/"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: "www.linkedin.com/in/haowei-fan-753541294"
+      url: "https://www.linkedin.com/in/haowei-fan-753541294"
 footer:
   links:
     - label: "Website"
@@ -91,7 +91,7 @@ footer:
     #   url: "https://instagram.com/"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: "www.linkedin.com/in/haowei-fan-753541294"
+      url: "https://www.linkedin.com/in/haowei-fan-753541294"
 
 defaults:
   # _posts
