@@ -56,7 +56,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Haowei Fan"
+  name   : "Haowei Fan (樊浩玮)"
   avatar : "/assets/images/tomcat.png"
   bio    : "In the dull and boring world, there is also occasional luck."
   links:
@@ -74,7 +74,7 @@ author:
     #   url: "https://instagram.com/"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://github.com/Yusaaaaa"
+      url: "https://www.linkedin.com/in/haowei-fan-753541294/?originalSubdomain=hk"
 footer:
   links:
     - label: "Website"
@@ -91,7 +91,7 @@ footer:
     #   url: "https://instagram.com/"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://github.com/Yusaaaaa"
+      url: "https://www.linkedin.com/in/haowei-fan-753541294/?originalSubdomain=hk"
 
 defaults:
   # _posts
