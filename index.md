@@ -6,4 +6,4 @@ layout: single
 author_profile: true
 ---
 
-I am a Ph.D student at City University of Hong Kong, and now I am visiting University of Manchester.
+你好，这是我的个人主页。在这里，我会展示一些基本信息、工作成果、笔记，以及生活的点滴记录。知识内容仅供参考，不保证完全准确和严谨；至于其他闲谈杂感，不过是博君一笑罢了。
