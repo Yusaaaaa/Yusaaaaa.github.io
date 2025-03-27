@@ -1,3 +1,9 @@
+---
+permalink: /cv/
+title: "CV"
+---
+
+
 # Haowei Fan
 
 **Email:** hwfan0930@gmail.com  
