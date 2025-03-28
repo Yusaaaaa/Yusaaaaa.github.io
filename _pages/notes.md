@@ -1,5 +1,6 @@
 ---
 permalink: /notes/
+title: "Notes"
 ---
 
 ## I store some notes here, including my study notes on certain topics, derivation datails of some papers, and seminar manuscripts. These are solely for personal storage purposes and are not intended for scientific reference.
