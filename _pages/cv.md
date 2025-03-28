@@ -65,7 +65,8 @@ title: "CV"
 - Word, Excel, PowerPoint, etc.  
 
 ### **Rubik's Cube**  
-- **3 Asian records and 11 Chinese records**  
+- **3 Asian records and 11 Chinese records**
+- ** Highest ranking: 4th in the world**
 - **Total medals:** 48 gold, 21 silver, 24 bronze  
 - [Player Home Page](https://www.worldcubeassociation.org/persons/2009FANH01)  
 
