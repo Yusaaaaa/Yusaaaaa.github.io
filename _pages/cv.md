@@ -62,7 +62,7 @@ title: "CV"
 - **MATLAB:** Moderate  
 
 ### **MS Office**  
-- Word, Excel, PowerPoint, OneDrive, etc.  
+- Word, Excel, PowerPoint, etc.  
 
 ### **Rubik's Cube**  
 - **3 Asian records and 11 Chinese records**  
